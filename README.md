@@ -10,11 +10,12 @@
 :white_check_mark: Cypress <br/>
 :white_check_mark: Selenium Webdriver<br/>
 :white_check_mark: BDD with Cucumber<br/>
+:white_check_mark: Reporting with Allure Reporter And Extent Reports <br/>
+:white_check_mark: CI/CD with Jenkins <br/>
+:white_check_mark: API testing with POSTMAN <br/>
+  
+:heavy_check_mark: HTML | CSS  | JavaScript | JAVA | ReactJS |<br/>
 
-:heavy_check_mark:	 HTML  <br/>
-:heavy_check_mark:	 CSS  <br/>
-:heavy_check_mark:	 JavaScript<br/>
-:heavy_check_mark:	 ReactJS  <br/>
 
 <h1></h1>
 
