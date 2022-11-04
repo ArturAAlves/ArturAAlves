@@ -21,6 +21,8 @@
 
 - [Cypress V10+  Cucumber and Allure Reporter framework Boilerplate ](https://github.com/ArturAAlves/Cypress-BDD-Allure-Boilerplate) - This project is a code concept boilerplate using cypress , cucumber and Allure, you are free to clone and use it as you see fit. 
  
+ - [Cypress + Cucumber and Allure Reporter use case](https://github.com/ArturAAlves/CypressExampleTesting) - In this project i use page object Architecture, for more info please click the link.
+
 <!--
 **ArturAAlves/ArturAAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
