@@ -1,7 +1,7 @@
 <h1>
   <p align="center"> Hi there👋, I'm Artur Alves!
 </h1>
-<p>Im Currently looking for opportunities as <strong> Quality Assurance Automation Specialist</strong>, working with Manual or automation Testing.
+<p>Im Currently looking for opportunities as <strong> Quality Assurance Specialist</strong>, working with Manual or automation Testing.
 
   
   
