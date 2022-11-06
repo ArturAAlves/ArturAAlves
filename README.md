@@ -15,15 +15,14 @@
 :heavy_check_mark: HTML | CSS  | JavaScript | JAVA | ReactJS |<br/>
 
 
-<h1></h1>
+<h2>Recent repositories ⚡</h2> 
 
 - [Cypress V10+  Cucumber and Allure Reporter framework Boilerplate ](https://github.com/ArturAAlves/Cypress-BDD-Allure-Boilerplate) - This is a Cypress boilerplate using cucumber and Allure, you are free to clone and use it as you see fit. 
  
  - [Cypress + Cucumber and Allure Reporter use case](https://github.com/ArturAAlves/CypressExampleTesting) - In this project i use page object Architecture, for more details please click the link.
+<h2></h2>
 
-<h1></h1>
-
-### Want to know more? 🤔 ###
+### Want to know more about Quality Assurance? 🤔 ###
 
 <h4>What is Software Testing</h4>
  <p>Software Testing is a method to check whether the actual software product matches expected requirements and to ensure that software product is Defect free. It involves execution of software/system components using manual or automated tools to evaluate one or more properties of interest. The purpose of software testing is to identify errors, gaps or missing requirements in contrast to actual requirements.</p>
